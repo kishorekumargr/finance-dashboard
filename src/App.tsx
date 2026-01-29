@@ -1,4 +1,5 @@
 import Cards from "./components/cards";
+import Profile from "./components/profile";
 import Sidebar from "./components/sidebar";
 import Transactions from "./components/transactions";
 
@@ -12,6 +13,7 @@ export default function Home() {
           <Cards />
           <Transactions />
         </div>
+        <Profile />
       </div>
     </main>
   );
