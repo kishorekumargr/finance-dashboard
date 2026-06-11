@@ -23,8 +23,10 @@ function Transactions() {
         ))}
       </div>
       <div className="mt-4 flex gap-2">
-        <button className="px-3 py-2 text-sm border text-white rounded-lg">See all history</button>
-        <button className="px-3 py-2 text-sm bg-purple-600 text-white rounded-lg">
+        <button className="px-3 py-2 text-sm bg-blue-500/90 hover:bg-blue-600 text-white rounded-lg">
+          See all history
+        </button>
+        <button className="px-3 py-2 text-sm bg-blue-500/90 hover:bg-blue-600 text-white rounded-lg">
           New transfer
         </button>
       </div>

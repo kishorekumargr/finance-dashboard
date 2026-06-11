@@ -7,7 +7,7 @@ function Profile() {
         <div className="w-16 h-16 rounded-full bg-linear-to-r from-pink-400 to-purple-500 flex items-center justify-center text-white font-bold text-xl">
           A
         </div>
-        <p className="font-semibold mt-2">Ace</p>
+        <p className="font-semibold mt-2">Amy</p>
         <p className="text-sm text-gray-500">Total: $19,842.12</p>
       </div>
 
